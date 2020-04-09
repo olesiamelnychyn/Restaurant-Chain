@@ -16,7 +16,7 @@
   <children>
     <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="451.0" prefWidth="664.0" style="-fx-background-color: #afb5e8;" VBox.vgrow="ALWAYS">
          <children>
-            <TextField fx:id="txt_search" layoutX="14.0" layoutY="43.0" prefHeight="25.0" prefWidth="468.0" promptText="Enter tittle.." />
+            <TextField fx:id="txt_search" layoutX="14.0" layoutY="43.0" prefHeight="25.0" prefWidth="468.0" promptText="Enter title.." />
             <TableView fx:id="table" layoutX="14.0" layoutY="83.0" prefHeight="352.0" prefWidth="468.0" />
             <Button fx:id="btn_search" layoutX="504.0" layoutY="410.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="139.0" text="Search" />
             <Label layoutX="504.0" layoutY="45.0" text="Price" />
